@@ -8,3 +8,7 @@ Example:
  
     	python MobaXterm-Keygen.py swatteam1 21.4
    
+
+
+Author: Double Sine
+License: GPLv3
